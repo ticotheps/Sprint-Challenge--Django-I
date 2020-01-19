@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/ticothep/lambda-projects/cs24/Sprint-Challenge--Django-I/.venv"
+set -gx VIRTUAL_ENV "/Users/ticothep/lambda_school/cs24/tico_cs24_sprints/week_4_build_week/Sprint-Challenge--Django-I/.venv"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3

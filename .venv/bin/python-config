@@ -1,4 +1,4 @@
-#!/Users/ticothep/lambda-projects/cs24/Sprint-Challenge--Django-I/.venv/bin/python
+#!/Users/ticothep/lambda_school/cs24/tico_cs24_sprints/week_4_build_week/Sprint-Challenge--Django-I/.venv/bin/python
 
 import sys
 import getopt

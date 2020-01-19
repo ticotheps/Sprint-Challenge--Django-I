@@ -1,10 +1,8 @@
-#!/Users/ticothep/lambda-projects/cs24/Sprint-Challenge--Django-I/.venv/bin/python3.7
+#!/Users/ticothep/lambda_school/cs24/tico_cs24_sprints/week_4_build_week/Sprint-Challenge--Django-I/.venv/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys
-
 from setuptools.command.easy_install import main
-
 if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
     sys.exit(main())

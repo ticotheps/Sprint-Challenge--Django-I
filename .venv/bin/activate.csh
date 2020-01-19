@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/ticothep/lambda-projects/cs24/Sprint-Challenge--Django-I/.venv"
+setenv VIRTUAL_ENV "/Users/ticothep/lambda_school/cs24/tico_cs24_sprints/week_4_build_week/Sprint-Challenge--Django-I/.venv"
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"

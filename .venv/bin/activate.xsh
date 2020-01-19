@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/ticothep/lambda-projects/cs24/Sprint-Challenge--Django-I/.venv"
+$VIRTUAL_ENV = r"/Users/ticothep/lambda_school/cs24/tico_cs24_sprints/week_4_build_week/Sprint-Challenge--Django-I/.venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
